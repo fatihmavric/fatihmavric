@@ -1,6 +1,6 @@
 # 👋 
 
-Dobrodošli na moj GitHub portfolio. Ja sam **Web Developer i Software Programmer** fokusiran na kreiranje modernih, brzih i efikasnih digitalnih rešenja.
+Dobrodošli na moj GitHub. Ja sam **Web Developer i Software Programmer** fokusiran na kreiranje modernih, brzih i efikasnih digitalnih rešenja.
 
 ---
 
