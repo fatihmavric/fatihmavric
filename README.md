@@ -6,12 +6,14 @@ Dobrodošli na moj GitHub. Ja sam **Web Developer i Software Programmer** fokusi
 
 ### 🛠 Moje tehnologije i alati
 
-Ovo su tehnologije sa kojima svakodnevno radim i koje trenutno usavršavam:
+Ovo su tehnologije sa kojima radim i koje koristim za kreiranje kompletnih, skalabilnih aplikacija:
 
-* **Frontend:** React, Tailwind CSS, JavaScript.
-* **Backend & Jezici:** C#, .NET, Python.
-* **Dizajn & Koncepti:** Minimalizam, UI/UX principi, Git/GitHub.
-* **Interesovanja:** Mašinsko učenje (ML), AI, matematika u programiranju, optimizacija performansi...
+* **Frontend:** React, Next.js, Tailwind CSS, JavaScript.
+* **Backend:** Node.js, Express, C# & .NET, Python.
+* **Baze podataka:** PostgreSQL, MongoDB, Supabase.
+* **Alati & Principi:** Git/GitHub, REST API arhitektura, UI/UX dizajn, Optimizacija performansi.
+
+---
 
 ---
 
@@ -19,7 +21,7 @@ Ovo su tehnologije sa kojima svakodnevno radim i koje trenutno usavršavam:
 
 Ovde izdvajam projekte na kojima trenutno radim ili koje smatram najreprezentativnijim:
 
-* [**Nexus Dispatch**](https://github.com/VASE_KORISNICKO_IME/nexus-dispatch): Profesionalni logistički web sajt za američko tržište. Fokusiran na React, čisti CSS i responzivni dizajn.
+* [**Nexus Dispatch**](https://github.com/fatihmavric/nexus-dispatch): Profesionalni logistički web sajt za američko tržište. Fokusiran na React, čisti CSS i responzivni dizajn.
 * *Uskoro:* Projekti vezani za C# i .NET automatizaciju, kao i ML&AI
 
 ---
